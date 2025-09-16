@@ -1,3 +1,2 @@
 x =(input(":"))
-if int(x) == 0 : print(f"{x} is zero")
-else: print(f"{x} is not zero")
+print(f"{x} is {'zero' if int(x) == 0 else 'not zero'}")
