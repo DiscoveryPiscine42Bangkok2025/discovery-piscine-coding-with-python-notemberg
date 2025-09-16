@@ -7,4 +7,8 @@ while x <=10:
         y +=1
     print("")
     x+=1
+
     
+    
+#for x in range(11):
+#    print(f"Table of {x}: ", " ".join(str(x * y) for y in range(11)))

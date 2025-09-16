@@ -1,3 +1,2 @@
-p = "987"
-if input("PASSWORD : ")==p:print(f"ACCESS GRANTED")
-else : print(f"ACCESS DENIED")
+p = "Python is awesome"
+print(f"ACCESS GRANTED") if input("PASSWORD : ") == p else print(f"ACCESS DENIED")
