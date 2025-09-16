@@ -1,0 +1,6 @@
+x,y = int(input("First Num : ")),int(input("Second Num : "))
+print("Thx!")
+print(f"{x} + {y} = {x+y}")
+print(f"{x} - {y} = {x-y}")
+print(f"{x} / {y} = {x/y}")
+print(f"{x} * {y} = {x*y}")
