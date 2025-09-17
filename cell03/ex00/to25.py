@@ -1,4 +1,3 @@
-
 n =int(input(":"))
 if n > 25: print("error")
 else: 
